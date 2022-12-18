@@ -2,7 +2,7 @@ const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
   HOME_BANNER_GREETINGS: ['Hi，我們是邏輯表達力第66期學員', 'Hi，我們成立了一個讀書會來實踐66期學習內容', 'Hi，想不是發生任何事', '歡迎來到我們的紀錄'], // 首页大图标语文字
 
-  HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
+  HOME_NAV_BUTTONS: fasle, // 首页是否显示分类大图标按钮
 
   // 菜单配置
   MENU_CATEGORY: true, // 显示分类
